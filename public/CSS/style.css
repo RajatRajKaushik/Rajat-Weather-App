@@ -1,10 +1,10 @@
 body{
-    color:#434b43;
+    color:#384d38;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 650px;
     margin:0 auto;
     padding: 0 16px;
-    background-color: lightblue;
+    background-color: #b4d7db;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -40,7 +40,9 @@ header a{
 }
 
 .portrait {
-    width: 250px;
+    width: 175px;
+    height: 250px;
+    
 }
 
 input{
